@@ -1,0 +1,1 @@
+# drupal8_bootstrap_subtheme
