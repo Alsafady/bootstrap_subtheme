@@ -5,6 +5,16 @@ global-styling:
 
 
 
+style_rtl:
+  css:
+    theme:
+      https://cdnjs.cloudflare.com/ajax/libs/bootstrap-rtl/3.4.0/css/bootstrap-rtl.min.css: {type: external, minified: true}
+
+
+
+
+
+
 global-scripts:
       js:
         js/custom.js: {}
