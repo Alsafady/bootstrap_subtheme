@@ -71,9 +71,13 @@
 
     {% elseif html_attributes['dir'] == 'rtl' %}
 
+
+    {{ attach_library('drupal8_bootstrap_subtheme/styles_rtl') }}
+
+
       {# attach_library('your_theme_name/styles_rtl') #}
-      
-      <link rel="stylesheet" type="text/css" media="all" href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-rtl/3.4.0/css/bootstrap-rtl.min.css">
+
+      <!--<link rel="stylesheet" type="text/css" media="all" href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-rtl/3.4.0/css/bootstrap-rtl.min.css"> -->
 
     {%- endif -%}
 
