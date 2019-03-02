@@ -21,4 +21,6 @@ regions:
 
 libraries:
   - 'drupal8_bootstrap_subtheme/global-styling'
+  - 'drupal8_bootstrap_subtheme/style_rtl'
+
   - 'drupal8_bootstrap_subtheme/global-scripts'
