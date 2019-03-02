@@ -8,3 +8,5 @@ https://cdnjs.cloudflare.com/ajax/libs/bootstrap-rtl/3.4.0/css/bootstrap-rtl.min
 https://cdnjs.cloudflare.com/ajax/libs/bootstrap-rtl/3.4.0/css/bootstrap-rtl.min.css
 
 https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js
+
+https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.css
