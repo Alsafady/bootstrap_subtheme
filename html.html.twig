@@ -64,6 +64,9 @@
 
 
 
+    {{ attach_library('drupal8_bootstrap_subtheme/wow_css') }}
+    {{ attach_library('drupal8_bootstrap_subtheme/wow_js') }}
+
 
     {% if html_attributes['dir'] == 'ltr' %}
 
@@ -74,16 +77,12 @@
 
     {{ attach_library('drupal8_bootstrap_subtheme/style_rtl') }}
 
-
       {# attach_library('your_theme_name/styles_rtl') #}
 
       <!--<link rel="stylesheet" type="text/css" media="all" href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-rtl/3.4.0/css/bootstrap-rtl.min.css"> -->
 
     {%- endif -%}
 
-
-    {{ attach_library('drupal8_bootstrap_subtheme/wow_css') }}
-    {{ attach_library('drupal8_bootstrap_subtheme/wow_js') }}
 
   </head>
   <body{{ attributes.addClass(body_classes) }}>
