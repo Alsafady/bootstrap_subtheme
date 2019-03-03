@@ -19,6 +19,7 @@ git clone https://github.com/Alsafady/drupal8_bootstrap_subtheme.git
 - CDN WOW js & Animate css Included.
 - CDN Fontawesome Included.
 - Contain views twig & views with machine name & page Display.
+- Navbar Transition ready.
 - Slider region is ready.
 - Div With background Image ready.
 - backtotop arrow.
