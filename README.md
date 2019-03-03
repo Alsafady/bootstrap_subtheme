@@ -32,7 +32,7 @@ git clone https://github.com/Alsafady/drupal8_bootstrap_subtheme.git
 
 
 ```text
-drupal8_bootstrap_subtheme/
+drupal8_bootstrap_subtheme
     ├── css/
     │   ├── custom_ltr.css
     │   ├── custom_rtl.css
@@ -40,6 +40,11 @@ drupal8_bootstrap_subtheme/
     │   └── style.css
     └── js/
         └── custom.js
+   ├── views-view.html.twig
+   ├── html.html.twig
+   ├── drupal8_bootstrap_subtheme.theme
+   ├── drupal8_bootstrap_subtheme.libraries.yml
+   └── drupal8_bootstrap_subtheme.info.yml
 ```
 
 
