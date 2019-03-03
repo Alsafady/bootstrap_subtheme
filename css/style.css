@@ -242,6 +242,41 @@ transition: all 0.2s;
 }
 
 
+
+
+
+
+
+.modal-header {
+background-color: #ccc;
+}
+
+.modal-body {
+background-color: #eee;
+}
+
+
+
+
+
+.btn-primary,
+.btn-default{
+    color: #ccc;
+    background-color: #ggg;
+}
+
+
+.btn-primary:active,
+.btn-primary:hover,
+.btn-primary:focus,
+
+.btn-default:active,
+.btn-default:hover,
+.btn-default:focus{
+background-color: #fff;
+}
+
+
 /* Bootstrap */
 
 
@@ -317,6 +352,7 @@ color: #ggg;
 
 
 
+
 .page-header {
     border-bottom: 1px solid #fff;
 }
@@ -325,7 +361,6 @@ color: #ggg;
 .main-container{
 padding-top: 35px;
 }
-
 
 
 
@@ -392,40 +427,6 @@ text-decoration-color: #ddd;
 
 
 
-
-
-
-.bg_div{
-background: url('images/div_bg.jpg') fixed no-repeat;
-color:#fff;
-width: 100%;
-
-}
-
-
-
-
-
-
-
-.btn-primary,
-.btn-default{
-    color: #ccc;
-    background-color: #ggg;
-}
-
-
-
-
-.btn-primary:active,
-.btn-primary:hover,
-.btn-primary:focus,
-
-.btn-default:active,
-.btn-default:hover,
-.btn-default:focus{
-background-color: #fff;
-}
 
 
 
@@ -496,14 +497,14 @@ width: 150px !important;
 
 
 
+.bg_div{
+background: url('images/div_bg.jpg') fixed no-repeat;
+color:#fff;
+width: 100%;
 
-.modal-header {
-background-color: #ccc;
 }
 
-.modal-body {
-background-color: #eee;
-}
+
 
 
 
