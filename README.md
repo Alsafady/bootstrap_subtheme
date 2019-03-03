@@ -1,15 +1,14 @@
 
 **Drupal 8 bootstrap subtheme**
 
+
+## Git Clone
 In Your theme Folder
 
 git clone https://github.com/Alsafady/drupal8_bootstrap_subtheme.git
 
 
-
-
-Features:
-
+## Features:
 - RTL Support
 - RTL Or LTR Custom
 - Arabic Fonts by google webfonts & fontface.me
@@ -22,16 +21,32 @@ Features:
 - backtotop arrow
 
 
-
-
-Used Libraries:
-
+## Used Libraries:
 - https://cdnjs.com/libraries/bootstrap-rtl
 - https://cdnjs.cloudflare.com/ajax/libs/bootstrap-rtl/3.4.0/css/bootstrap-rtl.min.css
 - https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css
 - https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js
 - https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css
 - https://use.fontawesome.com/releases/v5.7.2/css/all.css
+
+
+
+```text
+drupal8_bootstrap_subtheme/
+    ├── css/
+    │   ├── custom_ltr.css
+    │   ├── custom_rtl.css
+    │   ├── fonts.css
+    │   └── style.css
+    └── js/
+        └── custom.js
+```
+
+
+
+
+
+
 
 
 
