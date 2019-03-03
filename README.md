@@ -20,7 +20,7 @@ Css Custom for Common Drupal Elements & Bootstrap
 
 Css Colors links
 
-WOW js & Animate css
+WOW js & Animate css Included
 
 Fontawesome Included
 
