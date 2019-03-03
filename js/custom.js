@@ -1,13 +1,13 @@
 // nav bar transition
 
-$(document).ready(function() {
+jQuery(document).ready(function() {
         // Transition effect for navbar
-        $(window).scroll(function() {
+        jQuery(window).scroll(function() {
           // checks if window is scrolled more than 500px, adds/removes solid class
-          if($(this).scrollTop() > 500) {
-              $('.navbar').addClass('solid');
+          if(jQuery(this).scrollTop() > 500) {
+              jQuery('.navbar').addClass('solid');
           } else {
-              $('.navbar').removeClass('solid');
+              jQuery('.navbar').removeClass('solid');
           }
         });
 });
