@@ -35,7 +35,14 @@
 
 /*   All fontface.me fonts in one line  - Arabic   */
 
-@import url("//www.fontstatic.com/f=zahra,sky,saudi,mbc,bein-normal,stc,amiri-quran,ah-moharram-bold");
+@import url("//www.fontstatic.com/f=saudi");
+@import url("//www.fontstatic.com/f=mbc");
+@import url("//www.fontstatic.com/f=stc");
+@import url("//www.fontstatic.com/f=bein-normal");
+@import url("//www.fontstatic.com/f=ah-moharram-bold");
+@import url("//www.fontstatic.com/f=amiri-quran");
+@import url("//www.fontstatic.com/f=sky");
+@import url("//www.fontstatic.com/f=zahra");
 
 /*   All fontface.me in mulible lines  Arabic fonts
 

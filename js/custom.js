@@ -23,12 +23,11 @@ jQuery(document).ready(function($){
 
 
 
+//animateCSS('.your-element', 'bounce')
 
-  //animateCSS('.your-element', 'bounce', function() {
+//animateCSS('.your-element', 'bounce', function() {
     // Do something after animation
-  //})
-
-
+//  })
 
 
 //    backtotop arrow
