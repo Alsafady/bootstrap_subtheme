@@ -8,7 +8,7 @@ global-styling:
 css_style_rtl:
   css:
     theme:
-      https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css: {type: external, minified: true}
+      https://cdnjs.cloudflare.com/ajax/libs/bootstrap-rtl/3.4.0/css/bootstrap-rtl.min.css: {type: external, minified: true}
 
 
 css_style_ltr:
@@ -18,17 +18,16 @@ css_style_ltr:
 
 
 
-
 global-scripts:
       js:
         js/custom.js: {}
 
 
-
-wow_css:
+animate_css:
   css:
     theme:
-      https://cdnjs.cloudflare.com/ajax/libs/bootstrap-rtl/3.4.0/css/bootstrap-rtl.min.css: {type: external, minified: true}
+        https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css: {type: external, minified: true}
+
 
 wow_js:
       js:
