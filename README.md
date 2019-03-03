@@ -6,6 +6,7 @@ git pull https://github.com/Alsafady/drupal8_bootstrap_subtheme.git
 
 
 
+
 Used Libraries:
 
 https://cdnjs.com/libraries/bootstrap-rtl
