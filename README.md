@@ -17,7 +17,7 @@ git clone https://github.com/Alsafady/drupal8_bootstrap_subtheme.git
 - Links to chose your Css Colors.
 - WOW js & Animate css Included.
 - Fontawesome Included.
-- Contain views twig & twig for views with machine name & page Display.
+- Contain views twig & views with machine name & page Display.
 - Slider region is ready.
 - Div With background Image ready.
 - backtotop arrow.
