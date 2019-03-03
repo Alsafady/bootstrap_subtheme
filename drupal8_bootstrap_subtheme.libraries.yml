@@ -1,7 +1,13 @@
 global-styling:
   css:
     theme:
-      css/custom.css: {}
+      css/style.css: {}
+
+
+global-scripts:
+      js:
+        js/custom.js: {}
+
 
 
 
@@ -9,6 +15,7 @@ css_style_rtl:
   css:
     theme:
       https://cdnjs.cloudflare.com/ajax/libs/bootstrap-rtl/3.4.0/css/bootstrap-rtl.min.css: {type: external, minified: true}
+      css/custom_rtl.css: {}
 
 
 css_style_ltr:
@@ -16,11 +23,6 @@ css_style_ltr:
     theme:
       css/custom_ltr.css: {}
 
-
-
-global-scripts:
-      js:
-        js/custom.js: {}
 
 
 animate_css:

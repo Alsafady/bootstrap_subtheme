@@ -1,5 +1,4 @@
 /*
-
 Colors Code
 
 #ccc
@@ -8,7 +7,29 @@ Colors Code
 #fff
 #ggg
 
+You Can see:
+https://colorhunt.co/
+https://www.instagram.com/awsmcolor/
+https://www.instagram.com/mr.pugo/
+
+colors from your photos or logo
+https://www.canva.com/color-palette/
+
 */
+
+@import url("fonts.css");
+@import url("//use.fontawesome.com/releases/v5.7.2/css/all.css");
+
+
+
+}
+
+
+.wow{
+visibility: hidden;
+}
+
+
 
 
 /* HTML */
@@ -105,25 +126,12 @@ textarea {
 }
 
 
-button,
-input {
-  overflow: visible;
-}
-
-button,
-select {
-  text-transform: none;
-}
-
-select {
-  word-wrap: normal;
-}
 
 button,
 [type="button"],
 [type="reset"],
 [type="submit"] {
-  -webkit-appearance: button;
+
 }
 
 
@@ -160,7 +168,9 @@ legend {
 }
 
 
-label {}
+label {
+
+}
 
 
 
@@ -239,6 +249,33 @@ transition: all 0.2s;
 /* Drupal */
 
 
+.breadcrumb {
+    padding: 8px 15px;
+    margin-bottom: 23px;
+    list-style: none;
+    background-color: #ddd;
+    border-radius: 3px;
+}
+
+
+
+.webform-progress-tracker .progress-step.is-active .progress-text {
+    color: #e8cf75;
+}
+
+.webform-progress-tracker .progress-step .progress-text {
+    color: #fff;
+    padding-top: 5px;
+    padding-bottom: 0;
+}
+
+.webform-progress .progress-title[role="link"] {
+    color: #fff;
+}
+
+
+
+
 /* Drupal */
 
 
@@ -274,7 +311,7 @@ color: #ggg;
 
 
 .slider{
-  
+
 }
 
 
@@ -332,46 +369,6 @@ background-color: #ddd;
 }
 
 
-input[type="checkbox"]:after,
-.checkbox input[type="checkbox"]:after,
-.checkbox-inline input[type="checkbox"]:after{
-	border: 2px solid #ggg;
-	margin-left: 5px;
-
-}
-
-
-input[type="radio"]:after,
-.radio input[type="radio"]:after,
-.radio-inline input[type="radio"]:after {
-    position: relative;
-    top: -3px;
-    border: 2px solid #ggg;
-}
-
-
-input[type="checkbox"]:checked:before{
-  right: 10px;
-}
-
-input[type="radio"],
-.radio input[type="radio"]{
-  margin-left: 4px;
-}
-
-.checkbox input[type="checkbox"],
-.radio input[type="radio"]{
-margin-left: 4px !important;
-}
-
-
-
-.intl-tel-input input,
-.intl-tel-input input[type=text],
-.intl-tel-input input[type=tel] {
-    direction: ltr;
-}
-
 
 
 
@@ -405,37 +402,6 @@ width: 100%;
 }
 
 
-
-
-
-
-.breadcrumb {
-    padding: 8px 15px;
-    margin-bottom: 23px;
-    list-style: none;
-    background-color: #ddd;
-    border-radius: 3px;
-}
-
-
-
-
-
-
-
-.webform-progress-tracker .progress-step.is-active .progress-text {
-    color: #e8cf75;
-}
-
-.webform-progress-tracker .progress-step .progress-text {
-    color: #fff;
-    padding-top: 5px;
-    padding-bottom: 0;
-}
-
-.webform-progress .progress-title[role="link"] {
-    color: #fff;
-}
 
 
 
@@ -553,11 +519,6 @@ bottom: 0px;
 width: 100%;
 }
 
-
-
-.wow{
-visibility: hidden;
-}
 
 
 

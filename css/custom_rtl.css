@@ -1,0 +1,87 @@
+/*    @import url("fonts.css");   */
+
+
+*{
+
+font-family: 'Tajawal', sans-serif;
+
+
+/*
+google arabic fonts
+
+    font-family: 'Tajawal', sans-serif;
+    font-family: 'Changa', sans-serif;
+    font-family: 'El Messiri', sans-serif;
+    font-family: 'Lalezar', cursive;
+    font-family: 'Reem Kufi', sans-serif;
+    font-family: 'Lemonada', cursive;
+    font-family: 'Mada', sans-serif;
+    font-family: 'Markazi Text', serif;
+    font-family: 'Aref Ruqaa', serif;
+    font-family: 'Baloo Bhaijaan', cursive;
+    font-family: 'Mirza', cursive;
+    font-family: 'Rakkas', cursive;
+    font-family: 'Katibeh', cursive;
+    font-family: 'Harmattan', sans-serif;
+    font-family: 'Jomhuria', cursive;
+
+fonts from fontface.me
+
+    font-family: 'saudi';
+    font-family: 'mbc';
+    font-family: 'bein-normal';
+    font-family: 'jazeera';
+    font-family: 'stc';
+    font-family: 'amiri-quran';
+    font-family: 'ah-moharram-bold';
+    font-family: 'zahra';
+    font-family: 'sky';
+    font-family: 'bahij';
+*/
+
+}
+
+
+
+
+
+
+input[type="checkbox"]:after,
+.checkbox input[type="checkbox"]:after,
+.checkbox-inline input[type="checkbox"]:after{
+	border: 2px solid #ggg;
+	margin-left: 5px;
+
+}
+
+
+input[type="radio"]:after,
+.radio input[type="radio"]:after,
+.radio-inline input[type="radio"]:after {
+    position: relative;
+    top: -3px;
+    border: 2px solid #ggg;
+}
+
+
+input[type="checkbox"]:checked:before{
+  right: 10px;
+}
+
+input[type="radio"],
+.radio input[type="radio"]{
+  margin-left: 4px;
+}
+
+.checkbox input[type="checkbox"],
+.radio input[type="radio"]{
+margin-left: 4px !important;
+}
+
+
+
+.intl-tel-input input,
+.intl-tel-input input[type=text],
+.intl-tel-input input[type=tel] {
+    direction: ltr;
+}

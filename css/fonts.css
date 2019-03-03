@@ -1,0 +1,68 @@
+/*    Arabic fonts   */
+
+@import url("//fonts.googleapis.com/earlyaccess/notokufiarabic.css");
+@import url("//fonts.googleapis.com/earlyaccess/notosanskufiarabic.css");
+@import url("//fonts.googleapis.com/earlyaccess/notonaskharabicui.css");
+@import url("//fonts.googleapis.com/earlyaccess/notosansoldsoutharabian.css");
+@import url("//fonts.googleapis.com/earlyaccess/droidarabicnaskh.css");
+
+/*   All google fonts in one line  - Arabic   */
+
+@import url("//fonts.googleapis.com/css?family=Aref+Ruqaa|Baloo+Bhaijaan|Changa|El+Messiri|Harmattan|Jomhuria|Katibeh|Lalezar|Lemonada|Mada|Markazi+Text|Mirza|Rakkas|Reem+Kufi|Tajawal&subset=arabic");
+
+/*   All google in mulible lines  Arabic fonts
+
+@import url("//fonts.googleapis.com/css?family=Tajawal&subset=arabic");
+@import url("//fonts.googleapis.com/css?family=Scheherazade&subset=arabic");
+@import url("//fonts.googleapis.com/css?family=Lateef&subset=arabic");
+@import url("//fonts.googleapis.com/css?family=Amiri&subset=arabic");
+@import url("//fonts.googleapis.com/css?family=Cairo&subset=arabic");
+@import url("//fonts.googleapis.com/css?family=Aref+Ruqaa&subset=arabic");
+@import url("//fonts.googleapis.com/css?family=Baloo+Bhaijaan&subset=arabic");
+@import url("//fonts.googleapis.com/css?family=Changa&subset=arabic");
+@import url("//fonts.googleapis.com/css?family=El+Messiri&subset=arabic");
+@import url("//fonts.googleapis.com/css?family=Harmattan&subset=arabic");
+@import url("//fonts.googleapis.com/css?family=Jomhuria&subset=arabic");
+@import url("//fonts.googleapis.com/css?family=Katibeh&subset=arabic");
+@import url("//fonts.googleapis.com/css?family=Lalezar&subset=arabic");
+@import url("//fonts.googleapis.com/css?family=Lemonada&subset=arabic");
+@import url("//fonts.googleapis.com/css?family=Mada&subset=arabic");
+@import url("//fonts.googleapis.com/css?family=Markazi+Text&subset=arabic");
+@import url("//fonts.googleapis.com/css?family=Mirza&subset=arabic");
+@import url("//fonts.googleapis.com/css?family=Rakkas&subset=arabic");
+@import url("//fonts.googleapis.com/css?family=Reem+Kufi&subset=arabic");
+*/
+
+/*   All fontface.me fonts in one line  - Arabic   */
+
+@import url("//www.fontstatic.com/f=zahra,sky,saudi,mbc,bein-normal,stc,amiri-quran,ah-moharram-bold");
+
+/*   All fontface.me in mulible lines  Arabic fonts
+
+@import url("//www.fontstatic.com/f=stc");
+@import url("//www.fontstatic.com/f=saudi");
+@import url("//www.fontstatic.com/f=mbc");
+@import url("//www.fontstatic.com/f=bein-normal");
+@import url("//www.fontstatic.com/f=jazeera");
+@import url("//www.fontstatic.com/f=amiri-quran");
+@import url("//www.fontstatic.com/f=ah-moharram-bold");
+@import url("//www.fontstatic.com/f=zahra");
+@import url("//www.fontstatic.com/f=sky");
+@import url("//www.fontstatic.com/f=bahij");
+
+*/
+
+
+
+
+/*    google English fonts
+
+You Can Check by
+https://google-webfonts-helper.herokuapp.com/fonts
+
+ */
+
+@import url("//fonts.googleapis.com/css?family=Roboto");
+@import url("//fonts.googleapis.com/css?family=Open+Sans");
+@import url("//fonts.googleapis.com/css?family=Lato");
+@import url("//fonts.googleapis.com/css?family=Raleway");
