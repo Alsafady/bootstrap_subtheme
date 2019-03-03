@@ -10,7 +10,7 @@ git clone https://github.com/Alsafady/drupal8_bootstrap_subtheme.git
 
 ## Features:
 - RTL Support
-- RTL Or LTR Custom
+- RTL Or LTR Custom css
 - Arabic Fonts by google webfonts & fontface.me
 - English Fonts
 - Css Custom for Common Drupal Elements & Bootstrap
