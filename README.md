@@ -19,6 +19,7 @@ git clone https://github.com/Alsafady/drupal8_bootstrap_subtheme.git
 - Fontawesome Included
 - Contain views twig Files
 - backtotop arrow
+- Slider region is ready
 
 
 ## Used Libraries:
