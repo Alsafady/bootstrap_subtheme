@@ -178,9 +178,6 @@ label {
 /* HTML */
 
 
-.container {
-width: 970px;
-}
 
 .logo {
 
@@ -201,6 +198,12 @@ width: 970px;
 
 
 /* Bootstrap */
+
+
+.container {
+    width: 970px;
+}
+
 
 .nav-tabs > li > a:hover,
 .nav-tabs > li > a:focus:hover {
