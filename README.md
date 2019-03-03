@@ -50,7 +50,7 @@ drupal8_bootstrap_subtheme/
 
 
 
-All animate classes:
+All animate classes That You Can use it:
 - bounce
 - flash
 - pulse
@@ -132,15 +132,19 @@ All animate classes:
 
 you can add also:
 
+
+```css
 .yourElement {
   animation-duration: 3s;
   animation-delay: 2s;
   animation-iteration-count: infinite;
 }
+```
 
 
 Or by
 
+```html
 <section class="wow slideInLeft" data-wow-duration="2s" data-wow-delay="5s">
 
 </section>
@@ -148,3 +152,4 @@ Or by
 <section class="wow slideInRight" data-wow-offset="10"  data-wow-iteration="10">
 
 </section>
+```
