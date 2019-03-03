@@ -42,11 +42,11 @@ drupal8_bootstrap_subtheme
     │   └── style.css
     └── js/
         └── custom.js
-   ├── views-view.html.twig
-   ├── html.html.twig
-   ├── drupal8_bootstrap_subtheme.theme
-   ├── drupal8_bootstrap_subtheme.libraries.yml
-   └── drupal8_bootstrap_subtheme.info.yml
+    ├── views-view.html.twig
+    ├── html.html.twig
+    ├── drupal8_bootstrap_subtheme.theme
+    ├── drupal8_bootstrap_subtheme.libraries.yml
+    └── drupal8_bootstrap_subtheme.info.yml
 ```
 
 
