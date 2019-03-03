@@ -20,6 +20,7 @@ git clone https://github.com/Alsafady/drupal8_bootstrap_subtheme.git
 - Contain views twig Files
 - backtotop arrow
 - Slider region is ready
+- Div With background Image
 
 
 ## Used Libraries:

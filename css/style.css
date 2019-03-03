@@ -179,25 +179,26 @@ label {
 
 
 .container {
-    width: 940px;
-    margin: 0 auto;
-    position: relative;
+
 }
-/*
+
 .logo {
-    width: 256px;
+
+
+  /*  width: 256px;
     height: 256px;
     background: #ffffff;
     padding: 20px;
     border: 32px solid;
     top: 20px;
-    display: inline-block;
+    display: inline-block;*/
 }
 
 .logo img {
-    animation: spin 4s infinite linear;
+
+  /*   animation: spin 4s infinite linear; */
 }
-*/
+
 
 /* Bootstrap */
 
@@ -233,8 +234,8 @@ margin-right: 0;
 background-color: transparent;
 border: none;
 /*color: #666666; */
--webkit-box-shadow: inset 0 -1px 0 #dddddd;
-box-shadow: inset 0 -1px 0 #dddddd;
+-webkit-box-shadow: inset 0 -1px 0 #ddd;
+box-shadow: inset 0 -1px 0 #ddd;
 -webkit-transition: all 0.2s;
 -o-transition: all 0.2s;
 transition: all 0.2s;
@@ -260,7 +261,7 @@ transition: all 0.2s;
 
 
 .webform-progress-tracker .progress-step.is-active .progress-text {
-    color: #e8cf75;
+    color: #ddd;
 }
 
 .webform-progress-tracker .progress-step .progress-text {
@@ -395,7 +396,7 @@ text-decoration-color: #ddd;
 
 
 .bg_div{
-background: url('images/div_bg2.jpg') fixed no-repeat;
+background: url('images/div_bg.jpg') fixed no-repeat;
 color:#fff;
 width: 100%;
 
