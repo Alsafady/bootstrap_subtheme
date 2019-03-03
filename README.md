@@ -14,7 +14,7 @@ git clone https://github.com/Alsafady/drupal8_bootstrap_subtheme.git
 - Arabic Fonts by google webfonts & fontface.me
 - English Fonts
 - Css Custom for Common Drupal Elements & Bootstrap
-- Css Colors links
+- Links to chose your Css Colors.
 - WOW js & Animate css Included
 - Fontawesome Included
 - Contain views twig Files
