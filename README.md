@@ -162,6 +162,14 @@ Or by
 </section>
 ```
 
+Or added it to elemnt in custom.js file
+
+
+```js
+animateCSS('.your-element', 'bounce', function() {
+    // Do something after animation
+})
+```
 
 
 
