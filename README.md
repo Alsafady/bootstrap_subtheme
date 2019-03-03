@@ -8,16 +8,16 @@ git clone https://github.com/Alsafady/drupal8_bootstrap_subtheme.git
 
 Features:
 
--RTL Support
--RTL Or LTR Custom
--Arabic Fonts by google webfonts & fontface.me
--English Fonts
--Css Custom for Common Drupal Elements & Bootstrap
--Css Colors links
--WOW js & Animate css Included
--Fontawesome Included
--Contain views twig Files
--backtotop arrow
+- RTL Support
+- RTL Or LTR Custom
+- Arabic Fonts by google webfonts & fontface.me
+- English Fonts
+- Css Custom for Common Drupal Elements & Bootstrap
+- Css Colors links
+- WOW js & Animate css Included
+- Fontawesome Included
+- Contain views twig Files
+- backtotop arrow
 
 
 
