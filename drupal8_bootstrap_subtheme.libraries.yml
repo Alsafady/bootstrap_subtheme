@@ -14,7 +14,7 @@ global-scripts:
 css_style_rtl:
   css:
     theme:
-      https://cdnjs.cloudflare.com/ajax/libs/bootstrap-rtl/3.4.0/css/bootstrap-rtl.min.css: {type: external, minified: true}
+      https://cdn.rtlcss.com/bootstrap/3.3.7/css/bootstrap.min.css: {type: external, minified: true}
       css/custom_rtl.css: {}
 
 

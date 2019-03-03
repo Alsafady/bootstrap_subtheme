@@ -8,6 +8,23 @@
  */
 
 
+
+ function drupal8_bootstrap_subtheme_preprocess_html(&$variables) {
+   $language = Drupal::languageManager()->getCurrentLanguage();
+
+   if ($language->getDirection() == "rtl") {
+     //Comment because I loaded it by html.html.twig
+    	//$variables['#attached']['library'][] = 'drupal8_bootstrap_subtheme/css_style_rtl';
+   } elseif ($language->getDirection() == "ltr" ) {
+     //Comment because I loaded it by html.html.twig
+     //$variables['#attached']['library'][] = 'drupal8_bootstrap_subtheme/css_style_ltr';
+   }
+ }
+
+
+/*
+
+
 function drupal8_bootstrap_subtheme_preprocess_html(&$variables) {
   $language = Drupal::languageManager()->getCurrentLanguage();
 
@@ -17,17 +34,5 @@ function drupal8_bootstrap_subtheme_preprocess_html(&$variables) {
   }
 }
 
-
-/*
-
-function drupal8_bootstrap_subtheme_preprocess_html(&$variables) {
-  $language = Drupal::languageManager()->getCurrentLanguage();
-
-  if ($language->getDirection() == "rtl") {
-   	$variables['#attached']['library'][] = 'drupal8_bootstrap_subtheme/css_style_rtl';
-  } elseif ($language->getDirection() == "ltr" ) {
-    $variables['#attached']['library'][] = 'drupal8_bootstrap_subtheme/css_style_ltr';
-  }
-}
 
 */

@@ -10,24 +10,23 @@ git clone https://github.com/Alsafady/drupal8_bootstrap_subtheme.git
 ```
 
 ## Features:
-- RTL Support
-- RTL Or LTR Custom css
+- RTL bootstrap full Support.
+- RTL Or LTR Custom css files
 - CDN Arabic Fonts by google webfonts & fontface.me
-- CDN English Fonts.
+- CDN most popularity English Fonts.
 - Css Custom for Common Drupal Elements & Bootstrap.
-- Links to chose your Css Colors.
+- Links to chose your css Colors.
 - CDN WOW js & Animate css Included.
 - CDN Fontawesome Included.
 - Contain views twig & views with machine name & page Display.
-- Navbar Transition ready.
-- Slider region is ready.
+- Navbar Transition is ready.
+- Slider region in frontpage is ready.
 - Div With background Image ready.
-- backtotop arrow.
+- backtotop arrow ready.
 
 
 ## Used Libraries:
-- https://cdnjs.com/libraries/bootstrap-rtl
-- https://cdnjs.cloudflare.com/ajax/libs/bootstrap-rtl/3.4.0/css/bootstrap-rtl.min.css
+- https://cdn.rtlcss.com/bootstrap/3.3.7/css/bootstrap.min.css
 - https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css
 - https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js
 - https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css

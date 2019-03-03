@@ -1,5 +1,4 @@
-// nav bar transition
-
+//    nav bar transition
 jQuery(document).ready(function() {
         // Transition effect for navbar
         jQuery(window).scroll(function() {
