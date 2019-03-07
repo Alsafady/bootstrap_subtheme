@@ -1,12 +1,9 @@
-global-styling:
+global-style:
   css:
     theme:
       css/style.css: {}
-
-
-global-scripts:
-      js:
-        js/custom.js: {}
+  js:
+      js/custom.js: {}
 
 
 

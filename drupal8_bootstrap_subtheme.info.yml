@@ -20,5 +20,4 @@ regions:
   page_bottom: 'Page bottom'
 
 libraries:
-  - 'drupal8_bootstrap_subtheme/global-styling'
-  - 'drupal8_bootstrap_subtheme/global-scripts'
+  - 'drupal8_bootstrap_subtheme/global-style'
