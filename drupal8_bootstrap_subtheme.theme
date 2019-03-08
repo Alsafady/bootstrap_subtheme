@@ -22,17 +22,11 @@
  }
 
 
-/*
+
+ function drupal8_bootstrap_subtheme_preprocess_maintenance_page(&$variables) {
 
 
-function drupal8_bootstrap_subtheme_preprocess_html(&$variables) {
-  $language = Drupal::languageManager()->getCurrentLanguage();
-
-  if ($language->getDirection() == "rtl") {
-    //Comment because I loaded it by html.html.twig
-   	//$variables['#attached']['library'][] = 'drupal8_bootstrap_subtheme/css_style_rtl';
-  }
-}
+   //$variables['#attached']['library'][] = 'drupal8_bootstrap_subtheme/css_style_rtl';
 
 
-*/
+ }

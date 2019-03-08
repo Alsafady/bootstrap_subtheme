@@ -1,9 +1,9 @@
 global-style:
   css:
     theme:
-      css/style.css: {}
+      css/style.css: { preprocess: false }
   js:
-      js/custom.js: {}
+      js/custom.js: { preprocess: false , attributes: { async: true } }
 
 
 
@@ -11,23 +11,30 @@ global-style:
 css_style_rtl:
   css:
     theme:
-      https://cdn.rtlcss.com/bootstrap/3.3.7/css/bootstrap.min.css: {type: external, minified: true}
-      css/custom_rtl.css: {}
+      //cdn.rtlcss.com/bootstrap/3.3.7/css/bootstrap.min.css: {type: external, minified: true}
+      css/custom_rtl.css: { preprocess: false }
 
 
 css_style_ltr:
   css:
     theme:
-      css/custom_ltr.css: {}
+      css/custom_ltr.css: { preprocess: false }
+
+
+
+font-awesome:
+  css:
+    theme:
+      //use.fontawesome.com/releases/v5.7.2/css/all.css: { type: external, minified: true }
 
 
 
 animate_css:
   css:
     theme:
-        https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css: {type: external, minified: true}
+        //cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css: {type: external, minified: true  }
 
 
 wow_js:
       js:
-        https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js: {type: external, minified: true}
+        //cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js: {type: external, minified: true , attributes: { async: true } }

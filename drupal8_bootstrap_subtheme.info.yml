@@ -19,5 +19,24 @@ regions:
   page_top: 'Page top'
   page_bottom: 'Page bottom'
 
+
+
 libraries:
   - 'drupal8_bootstrap_subtheme/global-style'
+  - 'drupal8_bootstrap_subtheme/font-awesome'
+  - 'drupal8_bootstrap_subtheme/animate_css'
+  - 'drupal8_bootstrap_subtheme/wow_js'
+
+
+
+libraries-override:
+  # Replace an entire library.
+  #core/drupal.collapse: drupal8_bootstrap_subtheme/collapse
+
+
+
+libraries-extend:
+# Extend drupal.user: add assets from classy's user libraries.
+  #core/drupal.user:
+    #- classy/user1
+    #- classy/user2

@@ -7,7 +7,7 @@ Colors Code
 #fff
 #ggg
 
-You Can see:
+You Can Choose form:
 https://colorhunt.co/
 https://www.instagram.com/awsmcolor/
 https://www.instagram.com/mr.pugo/
@@ -20,11 +20,7 @@ https://www.canva.com/color-palette/
 @import url("fonts.css");
 @import url("navbar_transition.css");
 
-@import url("//use.fontawesome.com/releases/v5.7.2/css/all.css");
 
-
-
-}
 
 
 .wow{
@@ -80,7 +76,7 @@ ul{}
 li{}
 
 
-hr {
+hr{
 
 }
 
@@ -305,6 +301,7 @@ background-color: #fff;
 }
 
 
+/*   Webform   */
 
 .webform-progress-tracker .progress-step.is-active .progress-text {
     color: #ddd;
@@ -318,6 +315,17 @@ background-color: #fff;
 
 .webform-progress .progress-title[role="link"] {
     color: #fff;
+}
+
+
+.webform-progress-tracker .progress-step:not(.is-active) .progress-marker,
+.webform-progress-tracker .progress-step:hover .progress-marker {
+    background-color: #fff;
+}
+
+
+.webform-progress-tracker .progress-step::after {
+    background-color: #fff;
 }
 
 
@@ -376,6 +384,7 @@ padding-top: 35px;
 
 
 
+/* Forms */
 
 
 
@@ -446,17 +455,6 @@ text-decoration-color: #ddd;
 .progress-step.is-active .progress-marker {
     background-color: #ggg;
 }
-
-.webform-progress-tracker .progress-step:not(.is-active) .progress-marker,
-.webform-progress-tracker .progress-step:hover .progress-marker {
-    background-color: #fff;
-}
-
-
-.webform-progress-tracker .progress-step::after {
-    background-color: #fff;
-}
-
 
 
 
@@ -544,7 +542,7 @@ width: 100%;
 
 
 
-/*    backtotop arrow    */
+/*    back to top arrow    */
 
 #backtotop {
     border-radius: 5%;
