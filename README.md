@@ -6,7 +6,7 @@
 In Your theme Folder
 
 ```text
-git clone https://github.com/Alsafady/drupal8_bootstrap_subtheme.git
+git clone https://github.com/Alsafady/bootstrap_subtheme.git
 ```
 
 ## Features:
