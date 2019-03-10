@@ -64,17 +64,17 @@
 
 
 
-    {# attach_library('drupal8_bootstrap_subtheme/animate_css') #}
-    {# attach_library('drupal8_bootstrap_subtheme/wow_js') #}
+    {# attach_library('bootstrap_subtheme/animate_css') #}
+    {# attach_library('bootstrap_subtheme/wow_js') #}
 
 
     {% if html_attributes['dir'] == 'ltr' %}
 
-    {{ attach_library('drupal8_bootstrap_subtheme/css_style_ltr') }}
+    {{ attach_library('bootstrap_subtheme/css_style_ltr') }}
 
     {% elseif html_attributes['dir'] == 'rtl' %}
 
-    {{ attach_library('drupal8_bootstrap_subtheme/css_style_rtl') }}
+    {{ attach_library('bootstrap_subtheme/css_style_rtl') }}
 
       <!--<link rel="stylesheet" type="text/css" media="all" href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-rtl/3.4.0/css/bootstrap-rtl.min.css"> -->
 

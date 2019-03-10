@@ -22,10 +22,10 @@ regions:
 
 
 libraries:
-  - 'drupal8_bootstrap_subtheme/global-style'
-  - 'drupal8_bootstrap_subtheme/font-awesome'
-  - 'drupal8_bootstrap_subtheme/animate_css'
-  - 'drupal8_bootstrap_subtheme/wow_js'
+  - 'bootstrap_subtheme/global-style'
+  - 'bootstrap_subtheme/font-awesome'
+  - 'bootstrap_subtheme/animate_css'
+  - 'bootstrap_subtheme/wow_js'
 
 
 

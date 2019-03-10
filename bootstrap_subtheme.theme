@@ -1,0 +1,32 @@
+<?php
+
+/**
+ * @file
+ * Bootstrap sub-theme.
+ *
+ * Place your custom PHP code in this file.
+ */
+
+
+
+ function bootstrap_subtheme_preprocess_html(&$variables) {
+   $language = Drupal::languageManager()->getCurrentLanguage();
+
+   if ($language->getDirection() == "rtl") {
+     //Comment because I loaded it by html.html.twig
+    	//$variables['#attached']['library'][] = 'bootstrap_subtheme/css_style_rtl';
+   } elseif ($language->getDirection() == "ltr" ) {
+     //Comment because I loaded it by html.html.twig
+     //$variables['#attached']['library'][] = 'bootstrap_subtheme/css_style_ltr';
+   }
+ }
+
+
+
+ function bootstrap_subtheme_preprocess_maintenance_page(&$variables) {
+
+
+   //$variables['#attached']['library'][] = 'bootstrap_subtheme/css_style_rtl';
+
+
+ }
