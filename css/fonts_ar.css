@@ -1,4 +1,4 @@
-/*    Arabic fonts   */
+/*    google noto Arabic fonts   */
 
 @import url("//fonts.googleapis.com/earlyaccess/notokufiarabic.css");
 @import url("//fonts.googleapis.com/earlyaccess/notosanskufiarabic.css");
@@ -35,42 +35,25 @@
 
 /*   All fontface.me fonts in one line  - Arabic   */
 
-@import url("//www.fontstatic.com/f=saudi");
-@import url("//www.fontstatic.com/f=mbc");
-@import url("//www.fontstatic.com/f=stc");
-@import url("//www.fontstatic.com/f=bein-normal");
-@import url("//www.fontstatic.com/f=ah-moharram-bold");
-@import url("//www.fontstatic.com/f=amiri-quran");
-@import url("//www.fontstatic.com/f=sky");
-@import url("//www.fontstatic.com/f=zahra");
+
+
+
+@import url("//www.fontstatic.com/f=saudi,mbc,stc,bein-normal,ah-moharram-bold,amiri-quran,sky,zahr,jazeera,bahij");
+
 
 /*   All fontface.me in mulible lines  Arabic fonts
 
-@import url("//www.fontstatic.com/f=stc");
 @import url("//www.fontstatic.com/f=saudi");
 @import url("//www.fontstatic.com/f=mbc");
+@import url("//www.fontstatic.com/f=stc");
 @import url("//www.fontstatic.com/f=bein-normal");
-@import url("//www.fontstatic.com/f=jazeera");
-@import url("//www.fontstatic.com/f=amiri-quran");
 @import url("//www.fontstatic.com/f=ah-moharram-bold");
-@import url("//www.fontstatic.com/f=zahra");
+@import url("//www.fontstatic.com/f=amiri-quran");
 @import url("//www.fontstatic.com/f=sky");
+@import url("//www.fontstatic.com/f=zahra");
+@import url("//www.fontstatic.com/f=jazeera");
 @import url("//www.fontstatic.com/f=bahij");
 
+
+
 */
-
-
-
-
-/*    google English fonts
-
-You Can Check the font in
-https://google-webfonts-helper.herokuapp.com/fonts
-
- */
-
-@import url("//fonts.googleapis.com/css?family=Roboto");
-@import url("//fonts.googleapis.com/css?family=Open+Sans");
-@import url("//fonts.googleapis.com/css?family=Lato");
-@import url("//fonts.googleapis.com/css?family=Raleway");
-@import url("//fonts.googleapis.com/css?family=Ubuntu");
