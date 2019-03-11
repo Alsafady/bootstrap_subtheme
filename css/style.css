@@ -1,4 +1,4 @@
-/*
+/****************************
 Colors Code
 
 #ccc
@@ -14,12 +14,37 @@ https://www.instagram.com/mr.pugo/
 
 colors from your photos or logo
 https://www.canva.com/color-palette/
+****************************/
 
-*/
+
+
+
+/****************************
+Here you can load Fonts for arabic or english if you have tow lang in same page
+
+@import url("fonts_ar.css");
+@import url("fonts_en.css");
+****************************/
+
+
 
 @import url("navbar_transition.css");
 
 
+
+
+dir[lang=en] {
+  font-family:Verdana;
+}
+
+html, dir, body[lang=ar] {
+  font-family: Tajawal ;
+}
+
+
+*[lang="ar"] {
+  font-family: "Tajawal",serif;
+}
 
 
 .wow{
