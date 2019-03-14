@@ -549,9 +549,10 @@ margin-top: 20px !important;
 padding-top: 27px;
 padding-bottom: 0px !important;
 border-top: 1px solid #ddd;
-/* position: fixed; */
 bottom: 0px;
 width: 100%;
+clear:both;
+
 }
 
 
