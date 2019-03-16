@@ -5,7 +5,8 @@ base theme: bootstrap
 name: 'Bootstrap Subtheme'
 description: 'Custmize Drupal 8 Bootstrap Subtheme RTL & LTR'
 
-regions:
+logo: logo.png
+
   navigation: 'Navigation'
   navigation_collapsible: 'Navigation (Collapsible)'
   header: 'Top Bar'
