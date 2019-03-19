@@ -57,15 +57,15 @@ visibility: hidden;
 /* HTML */
 
 body {
-background-color: #eee;
+background-color: #ffff;
 font-style: normal;
 font-weight: normal;
 font-size: medium;
-color: #ggg ;
+color: #000 ;
 }
 
 p {
-color: #ggg ;
+color: #000 ;
 }
 
 b,
