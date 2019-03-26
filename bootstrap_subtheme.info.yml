@@ -1,6 +1,17 @@
 core: 8.x
 type: theme
+
 base theme: bootstrap
+# base theme: material_base
+# base theme: materialize
+# base theme: bootstrap_barrio
+# base theme: bootstrap_sass
+# base theme: uikit
+# base theme: bulma
+# base theme: zurb_foundation
+
+
+
 
 name: 'Bootstrap Subtheme'
 description: 'Custmize Drupal 8 Bootstrap Subtheme RTL & LTR'
