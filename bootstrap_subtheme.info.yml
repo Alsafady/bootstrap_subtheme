@@ -52,3 +52,7 @@ libraries-extend:
   #core/drupal.user:
     #- classy/user1
     #- classy/user2
+
+
+stylesheets-remove:
+   #- core/assets/vendor/normalize-css/normalize.css
