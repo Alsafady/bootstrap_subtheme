@@ -18,6 +18,7 @@ description: 'Custmize Drupal 8 Bootstrap Subtheme RTL & LTR'
 
 logo: logo.png
 
+regions:
   navigation: 'Navigation'
   navigation_collapsible: 'Navigation (Collapsible)'
   header: 'Top Bar'
